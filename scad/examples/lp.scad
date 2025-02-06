@@ -13,6 +13,7 @@ LowProfileMinimalCap (
 	topWallHeight = topWallHeight,
 	depth = 18.1,
 	width = 18.1
+	// withHole = false
 );
 
 
