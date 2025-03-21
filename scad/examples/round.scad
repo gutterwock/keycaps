@@ -12,7 +12,7 @@ RoundCap (
 	sideWallWidth = 1,
 	topWallHeight = topWallHeight,
 	depth = 18,
-	width = 18
+	width = 30
 );
 
 translate([0, 0, height - topWallHeight]) CherryStem(
